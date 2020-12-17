@@ -69,8 +69,8 @@
         <Text Name="AttributionText">ICT Helpdesk</Text>
         <Text Name="HeaderText">De ICT helpdesk van Information Services herinnert u aan het volgende...</Text>
         <Text Name="TitleText">Upgrade naar de Microsoft 365 Apps</Text>
-        <Text Name="BodyText1">Je apparaat krijgt binnenkort een upgrade naar de Microsoft 365 Apps. Installeer de 365 Apps op een tijdstip dat je uitkomt. Als je de 365 apps niet voor de deadline installeert, wordt deze automatisch geïnstalleerd.</Text>
-        <Text Name="BodyText2">Tijdens de upgrade kun je de huidige Office niet gebruiken. U ontvangt voldoende herinneringen voordat er automatisch actie wordt ondernomen. Zorg dat je verbonden bent met EduVpn voordat je op Uitvoeren klikt.</Text>
+        <Text Name="BodyText1">Jouw apparaat wordt binnenkort voorzien van een upgrade naar de Microsoft 365 Apps. Installeer de upgrade op een tijdstip die voor jou uitkomt. Wanneer je de 365 apps niet geïnstalleerd hebt voor de aangegeven deadline zal deze automatisch worden geïnstalleerd.</Text>
+        <Text Name="BodyText2">Tijdens de upgrade kun je Office niet gebruiken. Je wordt meerdere malen op de hoogte gebracht voordat er automatisch actie wordt ondernomen. Zorg dat je verbonden bent met eduVPN, is dit niet het geval dan kun je niet op Uitvoeren klikken.</Text>
         <Text Name="SnoozeText">Klik udskyd for at blive påmindet igen om:</Text>
         <Text Name="DeadlineText">Je deadline is:</Text>
         <Text Name="GreetMorningText">Hallo</Text>
