@@ -45,7 +45,7 @@
         <Text Name="HeaderText">The IT Supportdesk of Information Services kindly reminds you...</Text>
         <Text Name="TitleText">Upgrade to the Microsoft 365 Apps</Text>
         <Text Name="BodyText1">Your device is about to be upgraded with the Microsoft 365 Apps. Please install the 365 apps on a time that is convenient for you. If you don't install the 365 apps before the deadline it will be installed automatically.</Text>
-        <Text Name="BodyText2">During the upgrade you can't use the Office apps. You will receive an adequate amount of reminders before any actions are taken automatically. Make sure you are connected to EduVpn before clicking Install.</Text>
+        <Text Name="BodyText2">During the upgrade you can't use the Office apps. You will receive an adequate amount of reminders before any actions are taken automatically. Make sure you are connected to EduVpn, Eduroam or your docking station on campus before clicking Install.</Text>
         <Text Name="SnoozeText">Click snooze to be reminded again in:</Text>
         <Text Name="DeadlineText">Your deadline is:</Text>
 		<Text Name="GreetMorningText">Hallo"</Text>
@@ -70,7 +70,7 @@
         <Text Name="HeaderText">De ICT helpdesk van Information Services herinnert u aan het volgende...</Text>
         <Text Name="TitleText">Upgrade naar de Microsoft 365 Apps</Text>
         <Text Name="BodyText1">Jouw apparaat wordt binnenkort voorzien van een upgrade naar de Microsoft 365 Apps. Installeer de upgrade op een tijdstip die voor jou uitkomt. Wanneer je de 365 apps niet geïnstalleerd hebt voor de aangegeven deadline zal deze automatisch worden geïnstalleerd.</Text>
-        <Text Name="BodyText2">Tijdens de upgrade kun je Office niet gebruiken. Je wordt meerdere malen op de hoogte gebracht voordat er automatisch actie wordt ondernomen. Zorg dat je verbonden bent met eduVPN, is dit niet het geval dan kun je niet op Uitvoeren klikken.</Text>
+        <Text Name="BodyText2">Tijdens de upgrade kun je Office niet gebruiken. Je wordt meerdere malen op de hoogte gebracht voordat er automatisch actie wordt ondernomen. Zorg dat je verbonden bent met eduVPN, Eduroam of je docking op de campus is dit niet het geval dan kun je niet op Uitvoeren klikken.</Text>
         <Text Name="SnoozeText">Klik udskyd for at blive påmindet igen om:</Text>
         <Text Name="DeadlineText">Je deadline is:</Text>
         <Text Name="GreetMorningText">Hallo</Text>
