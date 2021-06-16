@@ -27,7 +27,7 @@
 	<Option Name="ActionButton2" Enabled="True" />	<!-- Enables or disables the action button. -->
 	<Option Name="DismissButton" Enabled="True" />	<!-- Enables or disables the dismiss button. -->
 	<Option Name="SnoozeButton" Enabled="False" /> <!-- Enabling this option will always enable action button and dismiss button -->
-	<Option Name="Scenario" Type="reminder" />	<!-- Possible values are: reminder | short | long -->
+	<Option Name="Scenario" Type="long" />	<!-- Possible values are: reminder | short | long -->
 	<Option Name="Action1" Value="ToastRunPackageID:" />	<!-- Action taken when using the Action button. Can be any protocol in Windows -->
 	<Option Name="Action2" Value="https://www.radboudnet.nl/office365/" />	<!-- Action taken when using the Action button. Can be any protocol in Windows -->
 	<Text Option="GreetGivenName" Enabled="True" />	<!-- Displays the toast with a personal greeting using the users given name retrieved from AD. Will try retrieval from WMI of no local AD -->
